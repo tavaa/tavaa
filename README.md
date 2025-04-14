@@ -10,24 +10,17 @@ I'm driven by a strong sense of curiosity and I'm genuinely excited to constantl
 
 Currently, I'm gaining practical experience and applying my skills through an insightful internship as a **Computer Vision Researcher** 👁️🤖, working on challenging problems in visual data understanding.
 
-<br>
+---
+
+### My Skills ✨
+
+*   **Programming:** I'm comfortable working with several languages, always learning and improving! My toolkit includes Python 🐍, C/C++ ⚙️, Java ☕, and R 📊.
+*   **Approach:** I enjoy tackling problems creatively (thinking outside the box! 🤔), I'm fueled by a **curious learning** mindset, and often rely on my intuition to explore new paths 💡.
+
+---
 
 On a different note, I'm also a **Cybersecurity enthusiast** 🛡️! I've just embarked on my journey into this critical field and I'm eager to learn more about protecting digital systems and data. 🕵️‍♂️
 
 <br>
 
 Feel free to look around my repositories! Thanks for stopping by. 😊
-<!--
-**tavaa/tavaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
