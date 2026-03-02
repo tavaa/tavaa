@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a 24-year-old Master's student currently diving deep into the fascinating world of **Data Science & Artificial Intelligence** 🎓.
+I'm a 25-year-old Master's student currently diving deep into the fascinating world of **Data Science & Artificial Intelligence** 🎓.
 
 My journey into tech started with a Bachelor's degree focused on the exciting intersection of **IoT, Big Data, and Machine Learning**. This background ignited my passion for all things related to Computer Science 💻, Mathematics ➕, emerging Technologies 🚀, and the broader IT landscape 🌐.
 
